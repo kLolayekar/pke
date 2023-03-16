@@ -24,9 +24,10 @@ class LoadFile(object):
     def __init__(self):
         """Initializer for LoadFile class."""
 
-        self.language = None
+        self.language = 'en
         """Language of the input file."""
-
+      
+        
         self.normalization = None
         """Word normalization method."""
 
