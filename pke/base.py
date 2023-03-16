@@ -24,7 +24,7 @@ class LoadFile(object):
     def __init__(self):
         """Initializer for LoadFile class."""
 
-        self.language = 'en
+        self.language = 'en'
         """Language of the input file."""
       
         
